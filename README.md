@@ -28,8 +28,8 @@ Here are some tools and technologies I work with:
 ---
 
 ## 🌐 Find Me Online
-- **LinkedIn**: [[ Sage.Myers@eagles.oc.edu](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sage-myers-351824298/)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sage-myers-351824298/))   
-- **Email**: [Sage.Myers@eagles.oc.edu](Sage.Myers@eagles.oc.edu)
+- **LinkedIn**:(https://www.linkedin.com/in/sage-myers-351824298/)] (https://www.linkedin.com/in/sage-myers-351824298/))   
+- **Email**: Sage.Myers@eagles.oc.edu
 
 ---
 
