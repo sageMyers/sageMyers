@@ -5,8 +5,7 @@ A passionate Software Engineer who loves building impactful projects and contrib
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on: **[Current Project/Area]**  
+## 🚀 About Me 
 - 🌱 I’m learning: **Full stack Development**  
 - 💬 Ask me about: **Resume Builders, APIs, Frontend Development**  
 - 👨‍💻 Check out my latest project:(https://github.com/IanBirdcatcher/Potato-Chip-Frontend)
