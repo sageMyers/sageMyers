@@ -1,27 +1,16 @@
 # Hi there! 👋 Welcome to My GitHub Profile!
 
-I'm [Your Name] 🌟  
-A passionate **[Your Role/Expertise, e.g., Software Engineer]** who loves building impactful projects and contributing to the tech community.
+I'm Sage Myers 🌟  
+A passionate Software Engineer who loves building impactful projects and contributing to the tech community.
 
 ---
 
 ## 🚀 About Me
 - 🔭 I’m currently working on: **[Current Project/Area]**  
-- 🌱 I’m learning: **[Technology/Skill You're Learning, e.g., Vue.js, Data Science]**  
-- 💬 Ask me about: **[Topics You Can Help With, e.g., Resume Builders, APIs, Frontend Development]**  
-- 👨‍💻 Check out my latest project: [Link to the Project or Repo]  
-- ⚡ Fun fact: **[Something Interesting About You, e.g., "I can debug code faster than I can cook!"]**
-
----
-
-## 📂 Projects
-Here are a few of my favorite projects:
-
-- [**Project Name 1**](https://github.com/username/project-name-1)  
-  _A short description of the project and what it does._
-
-- [**Project Name 2**](https://github.com/username/project-name-2)  
-  _A short description of the project and its impact._
+- 🌱 I’m learning: **Full stack Development**  
+- 💬 Ask me about: **Resume Builders, APIs, Frontend Development**  
+- 👨‍💻 Check out my latest project:(https://github.com/IanBirdcatcher/Potato-Chip-Frontend)
+- ⚡ Fun fact: I can debug code faster than I can cook!
 
 ---
 
@@ -39,10 +28,8 @@ Here are some tools and technologies I work with:
 ---
 
 ## 🌐 Find Me Online
-- **Portfolio Website**: [YourPortfolioLink](https://yourwebsite.com)  
-- **LinkedIn**: [YourLinkedInProfile](https://linkedin.com/in/yourprofile)  
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourHandle)  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [YourLinkedInProfile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sage-myers-351824298/))   
+- **Email**: [your.email@example.com](Sage.Myers@eagles.oc.edu)
 
 ---
 
