@@ -28,7 +28,7 @@ Here are some tools and technologies I work with:
 ---
 
 ## 🌐 Find Me Online
-- **LinkedIn**:(https://www.linkedin.com/in/sage-myers-351824298/)] (https://www.linkedin.com/in/sage-myers-351824298/))   
+- **LinkedIn**:(https://www.linkedin.com/in/sage-myers-351824298/)  
 - **Email**: Sage.Myers@eagles.oc.edu
 
 ---
