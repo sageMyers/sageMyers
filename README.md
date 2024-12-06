@@ -7,8 +7,8 @@ A passionate Software Engineer who loves building impactful projects and contrib
 
 ## 🚀 About Me 
 - 🌱 I’m learning: **Full stack Development**  
-- 💬 Ask me about: **Resume Builders, APIs, Frontend Development**  
-- 👨‍💻 Check out my latest project:(https://github.com/IanBirdcatcher/Potato-Chip-Frontend)
+- 💬 Ask me about: **APIs, Frontend Development, or Java!**  
+- 👨‍💻 Check out my latest project [here!](https://github.com/IanBirdcatcher/Potato-Chip-Frontend)
 - ⚡ Fun fact: I can debug code faster than I can cook!
 
 ---
