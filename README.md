@@ -34,7 +34,7 @@ Here are some tools and technologies I work with:
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sageMyers&show_icons=true&theme=radical)
 
 ---
 
